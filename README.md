@@ -1,10 +1,17 @@
 # Twitter-Censorship-Application
 ## An application that will determine whether a tweet is positive, negative, or neutral using an AI model (roBERTa).
-### Application made using Python, tkinter, and preprogrammed AI model.
-![Application](Application.png)
+### Application made using Python, Tkinter, and preprogrammed AI model.
+<p align="center">
+  ![Application](Application.png)
+</p>
 
 #### Positive Tweet
-![Positive](Positive.png)
+<p align="center">
+  ![Positive](Positive.png)
+</p>
+
 #### Negative Tweet
-![Negative](Negative.png)
+<p align="center">
+  ![Negative](Negative.png)
+</p>
 
